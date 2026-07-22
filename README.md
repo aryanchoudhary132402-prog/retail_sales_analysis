@@ -1,7 +1,6 @@
 # retail_sales_analysis
-# project overview
-This project focuses on performing end-to-end data analysis on a retail dataset using Excel, SQL, and Power BI.
-The goal is to extract meaningful business insights related to sales, profit, customers, and regional performance.
+# 📌 Project Overview
+End-to-end Retail Sales Analysis using Excel, SQL (MySQL), and Power BI to uncover sales trends, customer behavior, and business insights.
 
 ## Tech Stack
 •	Excel (Data Cleaning)
